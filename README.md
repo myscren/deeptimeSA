@@ -1,2 +1,2 @@
 # deeptimeSA
-This repository contains data and source code used used in the paper entitled "Long-term Rhythm in Sedimentary Record Coupling with Plate Tectonics Evolution"
+This repository contains data and source code used used in the paper entitled "Feedback between Surface and Deep Processes: Insight from Time Series Analysis of Sedimentary Record"
